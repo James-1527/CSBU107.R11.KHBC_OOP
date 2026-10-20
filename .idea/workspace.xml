@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b4b1da6-5916-4799-83f0-29ad1a71b084" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/ex1_rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/ex2_fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/ex3_time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/ex4_circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/ex4_dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1_EvenorOddNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2_Largest_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex3_Sum_Digits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex4_ReverseS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex5_multiTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex6_findelementinArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex7_Merge2sortArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="35" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000003141903" />
+      <entry key="S10" value="1.0000833418229484" />
+      <entry key="S30" value="1.1016144629767382" />
+      <entry key="S60" value="1.655037230240708" />
+      <entry key="M2" value="3.6451233562711205" />
+      <entry key="M5" value="16.542959644701668" />
+      <entry key="M10" value="46.25520364016614" />
+      <entry key="M15" value="79.82014202521395" />
+      <entry key="M30" value="165.40975340743853" />
+      <entry key="H1" value="259.7223115609472" />
+      <entry key="H2" value="346.12611878687704" />
+      <entry key="H4" value="447.5070013751345" />
+      <entry key="D1" value="685.1881062660556" />
+      <entry key="W1" value="760.8033169443835" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.8993075086472812E-82" />
+      <entry key="S2" value="4.403134705466051E-21" />
+      <entry key="S5" value="1.1369648340301972E-8" />
+      <entry key="S10" value="1.869604211599014E-4" />
+      <entry key="S30" value="0.13832870998015534" />
+      <entry key="S60" value="0.7568768532314666" />
+      <entry key="M2" value="2.3690499757816443" />
+      <entry key="M5" value="9.521564361916576" />
+      <entry key="M10" value="23.188734783380436" />
+      <entry key="M15" value="38.8321837588604" />
+      <entry key="M30" value="82.22141403045417" />
+      <entry key="H1" value="133.91519603632798" />
+      <entry key="H2" value="181.01459121936026" />
+      <entry key="H4" value="229.437396398234" />
+      <entry key="D1" value="330.3644544712004" />
+      <entry key="W1" value="361.2371679529773" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.9876008614453725" />
+      <entry key="S2" value="0.9968856972203758" />
+      <entry key="S5" value="0.998753126216754" />
+      <entry key="S10" value="0.9996352373046221" />
+      <entry key="S30" value="1.2368429379863894" />
+      <entry key="S60" value="2.4036170076103307" />
+      <entry key="M2" value="5.997490984050649" />
+      <entry key="M5" value="26.023638359201133" />
+      <entry key="M10" value="69.38032859344601" />
+      <entry key="M15" value="118.57548591964519" />
+      <entry key="M30" value="247.54774010946122" />
+      <entry key="H1" value="393.57069843492985" />
+      <entry key="H2" value="527.0960718561867" />
+      <entry key="H4" value="676.9159911431799" />
+      <entry key="D1" value="1015.5455874677455" />
+      <entry key="W1" value="1122.0393888524914" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JfmAeIYXMRNrNpmS5Gy4McfjtT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Circle.executor": "Run",
+    "Application.Ex1_EvenorOddNumbers.executor": "Run",
+    "Application.Ex2_Largest_number.executor": "Run",
+    "Application.Ex3_Sum_Digits.executor": "Run",
+    "Application.Ex4_ReverseS.executor": "Run",
+    "Application.Ex5_multiTable.executor": "Run",
+    "Application.Ex6_findelementinArray.executor": "Run",
+    "Application.Ex7_Merge2sortArr.executor": "Run",
+    "Application.Exercise_1_EvenorOddNumbers.executor": "Run",
+    "Application.Fraction.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MergeSortedArrays.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.Time.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.ex1_rectangle.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Documents/Study/OOP/Exercises",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/Documents/Study/OOP/Exercises/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\Study\OOP\Exercises" />
+      <recent name="C:\Users\Lenovo\Documents\Study\OOP\Exercises\scr" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1" />
+      <module name="Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ex1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4b1da6-5916-4799-83f0-29ad1a71b084" name="Changes" comment="" />
+      <created>1790060354794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790060354794</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
