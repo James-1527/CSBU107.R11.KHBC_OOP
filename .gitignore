@@ -4,5 +4,4 @@
 # Nhưng giữ lại lab1 và lab2
 !lab1/
 !lab2/
-!.gitignore
 !README(link git).md
